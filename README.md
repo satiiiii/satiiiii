@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Futuro cientista de dados</h3>
+<h3 align="center">Future data engineer</h3>
 
 - 🌱 I’m currently learning **Power BI**
 
