@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Computer Science Student | Java Developer in Training</h3>
+<h3 align="center">Computer Science Student </h3>
 
 <p align="center">
   <a href="www.linkedin.com/in/sativlr" target="_blank">
