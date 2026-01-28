@@ -1,41 +1,38 @@
-# Gabriel
+<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h3 align="center">Computer Science Student | Java Developer in Training</h3>
 
-> Computer Science Student | Backend Developer in Training
-
-Sou um estudante de Ciência da Computação focado no desenvolvimento de software robusto e escalável. Minha base acadêmica me fornece a teoria por trás dos algoritmos e estruturas de dados, enquanto meus estudos práticos estão voltados para a engenharia de soluções no ecossistema **Java**.
-
-Busco escrever código limpo, testável e eficiente, aplicando princípios de Orientação a Objetos e Design Patterns em problemas reais.
-
----
-
-### 🛠 Tech Stack & Ferramentas
-
-Minha stack é centrada em tecnologias corporativas modernas, com foco em **Backend** e **Persistência de Dados**.
-
-* **Core:** Java (Modern Features: Stream API, Lambdas), Data Structures & Algorithms.
-* **Frameworks:** Spring Boot, Spring Data JPA, Hibernate.
-* **Database:** SQL (MySQL/PostgreSQL), NoSQL (MongoDB).
-* **Desktop/GUI:** JavaFX, Swing.
-* **Tools:** Git, Maven, IntelliJ IDEA.
-
----
-
-### 🚀 Desenvolvimento Atual
-
-Atualmente, estou me aprofundando na arquitetura de microsserviços e sistemas monolíticos modulares através do curso **Java Completo (Cod3r)**. O foco técnico inclui:
-
--   **Engenharia de Software:** Aplicação profunda dos pilares de POO (Encapsulamento, Herança, Polimorfismo) e SOLID.
--   **Programação Funcional:** Utilização de Lambdas e Streams para processamento de dados eficiente.
--   **APIs REST:** Construção de Web Services escaláveis com Spring Boot.
--   **ORM & Data Layer:** Mapeamento objeto-relacional complexo com JPA/Hibernate.
-
----
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:SEU-EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
-</div>
+</p>
+
+<hr>
+
+<p align="left">
+   Sou um estudante de <b>Ciência da Computação</b> apaixonado por tecnologia. Atualmente, meu foco principal é dominar o ecossistema <b>Java</b>, backend.
+</p>
+
+<p align="left">
+  🌱 <strong>I’m currently learning:</strong> Java Ecosystem (Spring Boot, JPA, JavaFX & Streams API).<br>
+  🎓 <strong>Education:</strong> Computer Science Student.<br>
+  ⚡ <strong>Core Skills:</strong> Algorithms, Data Structures, SQL & NoSQL Databases.<br>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+
+<p align="center"> 
+  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  
+  <img alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Hibernate" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" />
+</p>
