@@ -1,25 +1,61 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Data Scientist | Data Engineer Student</h3>
+<h3 align="center">Computer Science Student | Java Developer in Training</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU-EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and ETL Pipelines**
-- 🔭 Working on data projects to extract insights and build predictive models
-- 🎓 Computer Science Student
-- ⚡ Knowledge in **SQL, Data Wrangling and Cloud Infrastructure**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/gabriel-cunha-841899283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+   Sou um estudante de <b>Ciência da Computação</b> apaixonado por tecnologia. Atualmente, meu foco principal é dominar o ecossistema <b>Java</b>, do backend ao desktop, aplicando boas práticas de engenharia de software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="
+<p align="left">
+  🌱 <strong>I’m currently learning:</strong> Java Ecosystem (Spring Boot, JPA, JavaFX & Streams API).<br>
+  🔭 <strong>Working on:</strong> Real-world projects to master OOP and Design Patterns.<br>
+  🎓 <strong>Education:</strong> Computer Science Student.<br>
+  ⚡ <strong>Core Skills:</strong> Algorithms, Data Structures, SQL & NoSQL Databases.<br>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+
+<p align="center"> 
+  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  
+  <img alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Hibernate" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" />
+</p>
+
+---
+
+<h3 align="left">📚 Learning Journey: Java COMPLETO</h3>
+<p>
+Abaixo estão os tópicos e tecnologias que estou desenvolvendo através de projetos práticos:
+</p>
+
+| Tópico | Status | Detalhes |
+| :--- | :---: | :--- |
+| **Fundamentos & Algoritmos** | ✅ | Lógica, Sintaxe, Estruturas de Controle |
+| **Orientação a Objetos** | 🚀 | Classes, Polimorfismo, Herança, Encapsulamento |
+| **Java Moderno** | 🔄 | Lambdas, Stream API, Programação Funcional |
+| **Java Desktop** | 🖥️ | Swing & JavaFX |
+| **Persistência de Dados** | 🗄️ | JDBC, JPA (Hibernate), SQL & NoSQL (MongoDB) |
+| **Web Service & Backend** | 🌐 | Spring Boot, API REST |
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</p>
