@@ -2,10 +2,10 @@
 <h3 align="center">Computer Science Student | Java Developer in Training</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="www.linkedin.com/in/sativlr" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:SEU-EMAIL@GMAIL.COM">
+  <a href="mailto:gabcunha733@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
@@ -16,11 +16,6 @@
    Sou um estudante de <b>Ciência da Computação</b> apaixonado por tecnologia. Atualmente, meu foco principal é dominar o ecossistema <b>Java</b>, backend.
 </p>
 
-<p align="left">
-  🌱 <strong>I’m currently learning:</strong> Java Ecosystem (Spring Boot, JPA, JavaFX & Streams API).<br>
-  🎓 <strong>Education:</strong> Computer Science Student.<br>
-  ⚡ <strong>Core Skills:</strong> Algorithms, Data Structures, SQL & NoSQL Databases.<br>
-</p>
 
 ---
 
