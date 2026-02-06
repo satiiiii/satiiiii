@@ -1,49 +1,37 @@
-# Hi 👋, I'm Gabriel
+# Olá, eu sou o [Gabriel]! 👋
 
-> Estudante de Ciência da Computação com foco em **Desenvolvimento Front-End e Mobile**.
+### Desenvolvedor Web Front-End 
 
-Minha paixão é transformar lógica em interfaces visuais. Atualmente, estou explorando o desenvolvimento de aplicações Desktop modernas e Mobile, utilizando o ecossistema Java e Dart para criar experiências de usuário fluidas.
-
-## 🎨 Tech Stack: Front-End & UI
-
-Baseado nos meus estudos atuais e projetos:
-
-### 🖥️ Desktop Development (Java)
-*Tecnologias visuais abordadas no curso "Java COMPLETO":*
-- **JavaFX:** Criação de interfaces modernas, ricas e responsivas para Desktop.
-- **Swing:** Manutenção e criação de componentes gráficos clássicos (Janelas, Botões, Paineis).
-- **Event Handling:** Tratamento de eventos de clique, teclado e mouse para interatividade.
-- **POO aplicada a UI:** Uso de Classes e Objetos para componentização de telas.
-
-### 📱 Mobile Development
-- **Dart:** Desenvolvimento de aplicações móveis multiplataforma (focado no meu projeto de IoT).
+Sou um desenvolvedor focado em construir interfaces de alta performance e soluções web completas. Tenho experiência em transformar layouts complexos em código limpo, além de desenvolver temas e funcionalidades robustas para o ecossistema WordPress.
 
 ---
 
-## 🚀 Projetos Visuais & Interfaces
+### 🛠 Tecnologias e Ferramentas
 
-### 🌡️ Sistema IoT Mobile (Dart)
-*App para visualização de dados de sensores.*
-- **Interface:** Telas para monitoramento em tempo real de temperatura e umidade.
-- **Destaque:** Integração visual de dados simulados.
+- **Front-end:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 💣 Projetos do Curso (Em desenvolvimento)
-*Aplicações gráficas para fixação de conceitos de UI:*
-- **Campo Minado Gráfico:** Jogo completo com interface gráfica, botões e eventos de mouse.
-- **Calculadora Desktop:** Recriação da interface de uma calculadora funcional usando gerenciadores de layout.
+- **Back-end & CMS:**
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Ferramentas:** ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📚 Foco de Estudos Atual
-Extraindo o melhor do Front-End no curso da Cod3r:
+### 📈 Estatísticas do GitHub
 
-- [ ] **JavaFX:** Dominar o Palco, Cenas e Gráficos.
-- [ ] **Swing:** Entender a base de interfaces gráficas em Java.
-- [ ] **Lambda Expressions:** Usar programação funcional para deixar o código de eventos da interface mais limpo.
-- [ ] **Desenvolvimento de APPs Reais:** Foco na camada de apresentação e usabilidade.
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO]&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
-<div align="left">
-  <a href="https://linkedin.com/in/sativlr" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sativlr)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dott7222@gmail.com)
