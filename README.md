@@ -1,33 +1,49 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">Computer Science Student </h3>
+# Hi 👋, I'm Gabriel
 
-<p align="center">
-  <a href="www.linkedin.com/in/sativlr" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:gabcunha733@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+> Estudante de Ciência da Computação com foco em **Desenvolvimento Front-End e Mobile**.
 
-<hr>
+Minha paixão é transformar lógica em interfaces visuais. Atualmente, estou explorando o desenvolvimento de aplicações Desktop modernas e Mobile, utilizando o ecossistema Java e Dart para criar experiências de usuário fluidas.
 
-<p align="left">
-   Sou um estudante de <b>Ciência da Computação</b> apaixonado por tecnologia. Atualmente, meu foco principal é dominar o ecossistema <b>Java</b>, backend.
-</p>
+## 🎨 Tech Stack: Front-End & UI
 
+Baseado nos meus estudos atuais e projetos:
+
+### 🖥️ Desktop Development (Java)
+*Tecnologias visuais abordadas no curso "Java COMPLETO":*
+- **JavaFX:** Criação de interfaces modernas, ricas e responsivas para Desktop.
+- **Swing:** Manutenção e criação de componentes gráficos clássicos (Janelas, Botões, Paineis).
+- **Event Handling:** Tratamento de eventos de clique, teclado e mouse para interatividade.
+- **POO aplicada a UI:** Uso de Classes e Objetos para componentização de telas.
+
+### 📱 Mobile Development
+- **Dart:** Desenvolvimento de aplicações móveis multiplataforma (focado no meu projeto de IoT).
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
+## 🚀 Projetos Visuais & Interfaces
 
-<p align="center"> 
-  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-  <img alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="MongoDB" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  
-  <img alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="Hibernate" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" />
-</p>
+### 🌡️ Sistema IoT Mobile (Dart)
+*App para visualização de dados de sensores.*
+- **Interface:** Telas para monitoramento em tempo real de temperatura e umidade.
+- **Destaque:** Integração visual de dados simulados.
+
+### 💣 Projetos do Curso (Em desenvolvimento)
+*Aplicações gráficas para fixação de conceitos de UI:*
+- **Campo Minado Gráfico:** Jogo completo com interface gráfica, botões e eventos de mouse.
+- **Calculadora Desktop:** Recriação da interface de uma calculadora funcional usando gerenciadores de layout.
+
+---
+
+## 📚 Foco de Estudos Atual
+Extraindo o melhor do Front-End no curso da Cod3r:
+
+- [ ] **JavaFX:** Dominar o Palco, Cenas e Gráficos.
+- [ ] **Swing:** Entender a base de interfaces gráficas em Java.
+- [ ] **Lambda Expressions:** Usar programação funcional para deixar o código de eventos da interface mais limpo.
+- [ ] **Desenvolvimento de APPs Reais:** Foco na camada de apresentação e usabilidade.
+
+<div align="left">
+  <a href="https://linkedin.com/in/sativlr" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
