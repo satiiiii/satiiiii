@@ -1,13 +1,13 @@
 # Hello, I'm Gabriel 👋
 
-Java Jr. Developer passionate about building robust and scalable solutions.  
+Java Developer passionate about building robust and scalable solutions.  
 Currently focused on back-end development with Java and Spring Boot, exploring cloud technologies and expanding my knowledge in front-end.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Junior Java Developer constantly improving
+- 💻 Java Developer constantly improving
 - ☁️ Exploring the AWS ecosystem
 - 📚 Always learning something new
 - 🎯 Focused on best practices and clean code
