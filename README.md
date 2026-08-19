@@ -17,16 +17,3 @@ Acredito que a programação é uma ferramenta poderosa para resolver problemas 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
-## 📊 Estatísticas
-
-<p align="left">
-  <img height="180em" src="stats.svg" alt="Estatísticas do GitHub de Gabriel"/>
-  <img height="180em" src="top-langs.svg" alt="Linguagens mais usadas"/>
-</p>
-
-- ⭐ Total de estrelas
-- ⏱️ Total de commits
-- 🔀 Total de PRs
-- 🐛 Total de issues
-- 📅 Contribuições no último ano
