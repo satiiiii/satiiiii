@@ -4,18 +4,19 @@
 
 Tenho $\color{lightblue}{\textsf{21 anos}}$ e sou natural de $\color{lightblue}{\textsf{São Paulo}}$. Concluí o ensino médio na $\color{orange}{\textsf{ETEC}}$, onde comecei a construir minha base técnica, e hoje sigo evoluindo como estudante de $\color{orange}{\textsf{Análise e Desenvolvimento de Sistemas}}$ na $\color{orange}{\textsf{UNIFEOB}}$.
 
-Sou apaixonado por $\color{lightgreen}{\textsf{tecnologia}}$ e por transformar ideias em $\color{lightgreen}{\textsf{soluções reais}}$ através do código. Estou sempre em busca de novos desafios que me permitam $\color{lightgreen}{\textsf{aprender, evoluir}}$ e aplicar meus conhecimentos em projetos práticos, unindo teoria e prática no dia a dia do desenvolvimento de sistemas.
+Sou apaixonado por $\color{lightgreen}{\textsf{dados}}$ e por transformar números em $\color{lightgreen}{\textsf{insights reais}}$ através da análise e da programação. Estou sempre em busca de novos desafios que me permitam $\color{lightgreen}{\textsf{aprender, evoluir}}$ e aplicar meus conhecimentos em projetos práticos, unindo estatística, código e visualização no dia a dia da ciência de dados.
 
-Acredito que a programação é uma ferramenta poderosa para resolver problemas do mundo real, e é isso que me motiva a continuar estudando e me aperfeiçoando constantemente, buscando não apenas escrever código, mas construir soluções $\color{violet}{\textsf{sólidas, eficientes e bem estruturadas}}$.
+Acredito que os dados são uma ferramenta poderosa para resolver problemas do mundo real, e é isso que me motiva a continuar estudando e me aperfeiçoando constantemente, buscando não apenas analisar informações, mas construir soluções $\color{violet}{\textsf{sólidas, inteligentes e bem estruturadas}}$.
 
 ## 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
 ## 📫 Contato
