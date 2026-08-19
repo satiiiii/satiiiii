@@ -21,8 +21,8 @@ Acredito que a programação é uma ferramenta poderosa para resolver problemas 
 ## 📊 Estatísticas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satiiiii&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub de Gabriel"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satiiiii&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas"/>
+  <img height="180em" src="stats.svg" alt="Estatísticas do GitHub de Gabriel"/>
+  <img height="180em" src="top-langs.svg" alt="Linguagens mais usadas"/>
 </p>
 
 - ⭐ Total de estrelas
