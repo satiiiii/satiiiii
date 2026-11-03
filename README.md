@@ -1,65 +1,90 @@
 <div align="center">
 
-# Gabriel Cunha
+# 👋 Olá, eu sou o Gabriel Cunha!
 
-**Engenharia de IA · Python · Dados**
+### 🤖 Construindo meu caminho em Engenharia de Inteligência Artificial
 
-Construindo aplicações com IA para consultar informações e apoiar decisões.
+**Python · IA Generativa · LLMs · RAG · Dados**
 
-[LinkedIn](https://www.linkedin.com/in/sativlr/) · [Projeto em destaque](https://github.com/satiiiii/-docmind) · [Meus repositórios](https://github.com/satiiiii?tab=repositories)
+Quero transformar ideias em aplicações inteligentes que resolvam problemas reais.
+
+<br>
+
+<img src="https://img.shields.io/badge/FOCO-Engenharia_de_IA-8B5CF6?style=for-the-badge" alt="Foco: Engenharia de IA">
+<img src="https://img.shields.io/badge/ESTUDANDO-IA_Generativa-06B6D4?style=for-the-badge" alt="Estudando IA Generativa">
+<img src="https://img.shields.io/badge/CONSTRUINDO-Projetos_na_prática-F59E0B?style=for-the-badge" alt="Construindo projetos na prática">
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/sativlr/"><img src="https://img.shields.io/badge/LinkedIn-Vamos_conversar-0A66C2?style=for-the-badge" alt="Meu LinkedIn"></a>
+<a href="https://github.com/satiiiii?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Meus_projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meus projetos no GitHub"></a>
 
 </div>
 
 ---
 
-### Sobre mim
+## 🧑‍💻 Sobre mim
 
-Sou estudante de tecnologia e estagiário de Melhoria Contínua na indústria. Essa vivência me aproxima de problemas de operação, manutenção e análise de dados que quero aprender a resolver com software.
+Meu objetivo é me tornar **Engenheiro de IA**, desenvolvendo aplicações que conectem modelos de linguagem, dados e software.
 
-Meu foco de estudos é **Engenharia de IA**, com projetos em Python, recuperação de informação e integração de modelos de linguagem. Gosto de entender o caminho completo: preparar os dados, recuperar evidências, integrar o modelo e verificar o resultado.
+Estou direcionando meus estudos para **IA Generativa, LLMs e sistemas RAG**, com Python como principal linguagem. Tenho interesse em entender como uma aplicação de IA funciona de ponta a ponta: da preparação dos dados à recuperação de informações, geração de respostas e avaliação dos resultados.
 
-**Busco minha primeira oportunidade em tecnologia**, especialmente em desenvolvimento com Python, IA aplicada ou dados.
+Aprendo construindo projetos, explorando o código e entendendo as decisões por trás de cada solução. Quero evoluir para criar sistemas úteis, bem estruturados e que possam ser testados e melhorados.
 
-### Projeto em destaque · DocMind
+## 🧠 No que estou me aprofundando
 
-**Consulta de documentos com busca híbrida e IA local.**
+| | Área | Meu foco de estudo |
+| :---: | --- | --- |
+| 🤖 | **IA Generativa e LLMs** | Integração de modelos de linguagem, prompts e respostas estruturadas. |
+| 🔎 | **RAG e busca semântica** | Embeddings, recuperação de documentos, busca híbrida e referências às fontes. |
+| 🐍 | **Desenvolvimento com Python** | Lógica da aplicação, processamento de dados e integração com APIs. |
+| 🦙 | **Modelos locais** | Experimentos com Ollama e Qwen para executar IA no próprio computador. |
+| 🧪 | **Qualidade em aplicações de IA** | Testes, avaliação de respostas, limitações dos modelos e documentação. |
+| 🗃️ | **Dados e software** | SQL, bancos de dados e organização das camadas de uma aplicação. |
 
-O [DocMind](https://github.com/satiiiii/-docmind) é um protótipo de RAG para consultar PDFs em português, inspecionar os trechos recuperados e gerar respostas com referências ao documento e à página.
+## 🛠️ Minha caixa de ferramentas
 
-- **Recuperação:** busca lexical BM25 + embeddings Multilingual E5, combinados por Reciprocal Rank Fusion.
-- **Geração:** Qwen 2.5 via Ollama, com saída estruturada e validação dos IDs de fontes.
-- **Verificação:** testes automatizados, conjunto sintético de avaliação e documentação das decisões e limitações.
-- **Demonstração:** modo de consulta às fontes que funciona sem baixar modelos ou configurar API.
+<div align="center">
 
-[Explorar o código e executar a demonstração →](https://github.com/satiiiii/-docmind#experimentar-em-2-minutos)
+**IA & Desenvolvimento**
 
-### Outros projetos
+<br>
 
-| Projeto | Problema e implementação | Tecnologias |
-| --- | --- | --- |
-| [Chamados de manutenção](https://github.com/satiiiii/manutencao-hutchinson-pi) | Projeto acadêmico de aplicativo mobile com triagem de chamados e relatórios assistidos por IA. | Flutter · Dart · Firebase · Gemini |
-| [Gestão Pecuária](https://github.com/satiiiii/gestao-pecuaria) | MVP para fazendas, lotes e fornecimentos, com operação offline, sincronização e histórico. A versão atual ainda não integra IA. | JavaScript · Node.js · SQLite |
-| [Monitoramento industrial IoT](https://github.com/satiiiii/monitoramento-iot-esteiras) | Projeto acadêmico em equipe que conecta sensores, monitoramento de esteiras e análise de dados. | ESP32 · Dart · Firebase · MySQL · Power BI |
-| [Pager Balcão](https://github.com/satiiiii/pager-dashboard) | Interface web para acionamento de dispositivos ESP32 por mensagens MQTT. | React · JavaScript · MQTT |
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,react,dart,flutter&perline=6" alt="Python, JavaScript, Node.js, React, Dart e Flutter">
 
-### Tecnologias que uso nos projetos
+<br><br>
 
-| Área | Ferramentas e conceitos |
-| --- | --- |
-| IA e recuperação de informação | Python, RAG, embeddings, BM25, RRF, Ollama |
-| Aplicações | JavaScript, Node.js, React, Flutter, Dart |
-| Dados e integração | SQL, MySQL, SQLite, Firebase, Power BI, MQTT |
-| Desenvolvimento | Git, GitHub, testes automatizados, documentação técnica |
+**Dados & Ferramentas**
 
-### O que estou aprofundando
+<br>
 
-- Avaliação de recuperação e de respostas em aplicações com LLMs.
-- Busca híbrida e rastreabilidade das fontes.
-- Integração de IA a fluxos de trabalho com dados estruturados.
-- Organização de código e demonstrações que outras pessoas consigam reproduzir.
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,vscode&perline=6" alt="MySQL, SQLite, Firebase, Git, GitHub e VS Code">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LLMs-8B5CF6?style=flat-square" alt="LLMs">
+<img src="https://img.shields.io/badge/RAG-06B6D4?style=flat-square" alt="RAG">
+<img src="https://img.shields.io/badge/Embeddings-EC4899?style=flat-square" alt="Embeddings">
+<img src="https://img.shields.io/badge/Ollama-181717?style=flat-square" alt="Ollama">
+<img src="https://img.shields.io/badge/Busca_Híbrida-F59E0B?style=flat-square" alt="Busca híbrida">
+<img src="https://img.shields.io/badge/SQL-22C55E?style=flat-square" alt="SQL">
+
+</div>
+
+## 🚀 Aprendizado na prática
+
+📚 **[DocMind](https://github.com/satiiiii/-docmind)** — Meu projeto de consulta a PDFs com RAG, busca híbrida e modelos locais. Um espaço para aplicar e aprofundar meus estudos em Engenharia de IA.
+
+📱 **[Chamados de manutenção com IA](https://github.com/satiiiii/manutencao-hutchinson-pi)** — Aplicação Flutter com integração de IA para apoiar a triagem de chamados e a análise de relatórios.
+
+🌱 **[Outros projetos e experimentos →](https://github.com/satiiiii?tab=repositories)**
 
 ---
 
 <div align="center">
-  <sub>De um problema concreto ao código, com decisões e limites documentados.</sub>
+
+### 💡 Aprender, construir, testar e evoluir.
+
+Aberto a conexões e oportunidades para crescer em **Python, IA aplicada e desenvolvimento de software**.
+
 </div>
