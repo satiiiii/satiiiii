@@ -6,7 +6,7 @@
 
 Construindo aplicações com IA para consultar informações e apoiar decisões.
 
-[Projeto em destaque](https://github.com/satiiiii/-docmind) · [Meus repositórios](https://github.com/satiiiii?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/sativlr/) · [Projeto em destaque](https://github.com/satiiiii/-docmind) · [Meus repositórios](https://github.com/satiiiii?tab=repositories)
 
 </div>
 
