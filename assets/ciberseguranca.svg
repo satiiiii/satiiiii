@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="284" viewBox="0 0 900 284" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Cunha — Cibersegurança</title>
+  <desc id="desc">Estudo cibersegurança e quero trabalhar na área com foco generalista.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="900" y2="284" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081426"/>
+      <stop offset=".58" stop-color="#101733"/>
+      <stop offset="1" stop-color="#28164B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="585" y1="68" x2="817" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#40F5D2"/>
+      <stop offset=".54" stop-color="#79ACFF"/>
+      <stop offset="1" stop-color="#C997FF"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop stop-color="#604CDB" stop-opacity=".37"/>
+      <stop offset="1" stop-color="#604CDB" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#A8BFFF" stroke-opacity=".13"/>
+    </pattern>
+    <clipPath id="card"><rect width="900" height="284" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <path fill="url(#background)" d="M0 0h900v284H0z"/>
+    <ellipse cx="724" cy="138" rx="232" ry="191" fill="url(#halo)"/>
+    <path fill="url(#grid)" d="M548 0h352v284H548z"/>
+    <path d="M0 0h900" stroke="url(#accent)" stroke-width="8"/>
+
+    <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".54">
+      <path d="M558 73h53l31 31h22M573 203h47l37-37h14M754 94h32l36-36h78M761 179h18l38 38h83"/>
+      <circle cx="558" cy="73" r="4" fill="#0E1832"/>
+      <circle cx="573" cy="203" r="4" fill="#0E1832"/>
+      <circle cx="823" cy="58" r="4" fill="#251949"/>
+      <circle cx="817" cy="217" r="4" fill="#251949"/>
+    </g>
+    <circle cx="715" cy="141" r="96" fill="none" stroke="#B1A1FF" stroke-opacity=".34" stroke-dasharray="2 7"/>
+    <circle cx="715" cy="141" r="81" fill="#161E42" fill-opacity=".76" stroke="url(#accent)" stroke-opacity=".45"/>
+    <path d="M715 78c16 12 36 19 54 22v39c0 36-24 56-54 70-30-14-54-34-54-70v-39c18-3 38-10 54-22Z"
+          fill="#132544" stroke="url(#accent)" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M715 94c13 8 26 14 39 17v28c0 26-15 43-39 56-24-13-39-30-39-56v-28c13-3 26-9 39-17Z"
+          fill="none" stroke="#A5B9FF" stroke-opacity=".29"/>
+    <g fill="none" stroke="#80FFE5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="698" y="137" width="34" height="28" rx="5"/>
+      <path d="M705 137v-9a10 10 0 0 1 20 0v9m-10 12v5"/>
+    </g>
+
+    <g font-family="Segoe UI, Arial, sans-serif">
+      <text x="54" y="67" fill="#9EFBE8" font-size="16" font-weight="700" letter-spacing="3.2">GABRIEL CUNHA</text>
+      <text x="50" y="131" fill="#F6F8FF" font-size="59" font-weight="700">Cibersegurança</text>
+      <text x="55" y="171" fill="#D5DEF8" font-size="22">Em busca de uma atuação generalista</text>
+
+      <rect x="55" y="207" width="121" height="32" rx="16" fill="#10433F" stroke="#279B89"/>
+      <circle cx="72" cy="223" r="3" fill="#68FBDC"/>
+      <text x="83" y="227" fill="#BAFFEF" font-size="11" font-weight="700" letter-spacing="1.2">EM ESTUDO</text>
+
+      <rect x="188" y="207" width="218" height="32" rx="16" fill="#3B2763" stroke="#9869D8"/>
+      <circle cx="205" cy="223" r="3" fill="#D1A8FF"/>
+      <text x="216" y="227" fill="#F2DFFF" font-size="11" font-weight="700" letter-spacing="1">QUERO TRABALHAR NA ÁREA</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="899" height="283" rx="23.5" fill="none" stroke="#8594F5" stroke-opacity=".32"/>
+</svg>
