@@ -1,6 +1,6 @@
 <h1 align="center">Gabriel Cunha</h1>
 
-<p align="center">Análise e Desenvolvimento de Sistemas · UNIFEOB</p>
+<p align="center">Ciencia da computaçãp · UNIFEOB</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ciberseguran%C3%A7a%20em%20forma%C3%A7%C3%A3o-0F766E?style=for-the-badge" alt="Cibersegurança em formação">
