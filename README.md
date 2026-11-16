@@ -1,33 +1,38 @@
-<h1 align="center">Gabriel Cunha</h1>
-
-<p align="center">Ciencia da computaçãp · UNIFEOB</p>
+<h1 align="center">
+  <img src="assets/ciberseguranca.svg" width="100%" alt="Gabriel Cunha · Estudante de cibersegurança · Ciência da Computação na UNIFEOB">
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ciberseguran%C3%A7a%20em%20forma%C3%A7%C3%A3o-0F766E?style=for-the-badge" alt="Cibersegurança em formação">
-  <img src="https://img.shields.io/badge/Interesse%20em%20Red%20Team-A12645?style=for-the-badge" alt="Interesse em Red Team">
-  <a href="https://www.linkedin.com/in/sativlr/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="Perfil de Gabriel Cunha no LinkedIn"></a>
+  <img alt="Aberto a oportunidades" src="https://img.shields.io/badge/Aberto%20a%20oportunidades-047857?style=for-the-badge">
+  <a href="https://github.com/satiiiii?tab=repositories"><img alt="Meus projetos" src="https://img.shields.io/badge/Meus%20projetos-6D28D9?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sativlr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
 </p>
 
 ## 🔐 Sobre mim
 
-Estudo **cibersegurança** e quero trabalhar na área com uma atuação generalista. Tenho interesse especial em **Red Team** porque gosto de entender como simulações autorizadas de adversários colocam os controles de segurança à prova e ajudam a melhorar a defesa.
+Sou apaixonado por **segurança digital**. Gosto de entender como redes e sistemas funcionam, onde surgem os riscos e como fortalecer a defesa. Estou colocando o que aprendo em prática em laboratórios e desenvolvendo projetos que compartilho aqui no GitHub.
 
-## 🧭 Áreas de estudo
+Busco minha **primeira oportunidade em cibersegurança**, como estagiário ou em uma vaga júnior. Quero aprender com a equipe e contribuir com análise, investigação e documentação.
 
-- **Fundamentos de infraestrutura** · Linux, redes TCP/IP, DNS e controle de acesso.
-- **Segurança ofensiva** · Fundamentos de Red Team e avaliação de controles em laboratório.
+## 🧭 O que estou estudando
+
+- **Infraestrutura e redes** · Linux, TCP/IP, DNS e controle de acesso.
 - **Segurança defensiva** · Análise de logs, triagem de alertas e resposta a incidentes.
-- **Gestão de vulnerabilidades** · Avaliação de risco, priorização e acompanhamento de correções.
+- **Red Team** · Fundamentos de segurança ofensiva e avaliação de controles em laboratórios autorizados.
+- **Gestão de vulnerabilidades** · Priorização por risco e acompanhamento de correções.
 
-## 🧰 Ferramentas de estudo
+### 🧰 Ferramentas que uso ou estou explorando
 
-| Ferramenta | O que quero praticar |
-| :--- | :--- |
-| ![Linux](https://img.shields.io/badge/Linux-835600?style=for-the-badge&logo=linux&logoColor=white) | Linha de comando, permissões e administração básica de sistemas. |
-| ![Wireshark](https://img.shields.io/badge/Wireshark-1767A3?style=for-the-badge&logo=wireshark&logoColor=white) | Análise de pacotes e identificação de padrões de tráfego em rede. |
-| ![Nmap](https://img.shields.io/badge/Nmap-6246A2?style=for-the-badge) | Inventário de hosts e serviços em redes de laboratório. |
-| ![Wazuh](https://img.shields.io/badge/Wazuh-0F766E?style=for-the-badge) | Monitoramento de eventos, análise de logs e investigação de alertas. |
+<p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-855500?style=flat-square&amp;logo=linux&amp;logoColor=white">
+  <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1D5BA2?style=flat-square&amp;logo=wireshark&amp;logoColor=white">
+  <img alt="Nmap" src="https://img.shields.io/badge/Nmap-8439AE?style=flat-square">
+  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-0F766E?style=flat-square">
+  <img alt="Python" src="https://img.shields.io/badge/Python-9D2C67?style=flat-square&amp;logo=python&amp;logoColor=white">
+</p>
 
-## 🎯 Objetivo profissional
+## 🚀 Projetos em destaque
 
-Busco oportunidades de **estágio ou nível júnior em cibersegurança**. Quero aprender com uma equipe, documentar achados com clareza e desenvolver meu raciocínio analítico ao investigar problemas de segurança.
+- **[100 Days of Python](https://github.com/satiiiii/100-projects-in-python)** · Série de projetos para praticar Python e resolução de problemas.
+- **[DocMind](https://github.com/satiiiii/-docmind)** · Protótipo para consultar PDFs em português e conferir os trechos que embasam cada resposta.
+- **[Monitoramento IoT de esteiras](https://github.com/satiiiii/monitoramento-iot-esteiras)** · Projeto acadêmico em equipe que acompanha a telemetria de esteiras industriais com ESP32, Firebase e Dart.

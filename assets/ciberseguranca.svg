@@ -1,64 +1,67 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="284" viewBox="0 0 900 284" role="img" aria-labelledby="title desc">
-  <title id="title">Gabriel Cunha — Cibersegurança</title>
-  <desc id="desc">Estudo cibersegurança e quero trabalhar na área com foco generalista.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title desc">
+  <title id="title">Gabriel Cunha · Estudante de cibersegurança</title>
+  <desc id="desc">Ciência da Computação na UNIFEOB. Um escudo com cadeado e trilhas de circuito ilustra o banner em verde, azul e violeta.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="900" y2="284" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#081426"/>
-      <stop offset=".58" stop-color="#101733"/>
-      <stop offset="1" stop-color="#28164B"/>
+    <linearGradient id="background" x1="0" y1="0" x2="900" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#081628"/>
+      <stop offset=".51" stop-color="#161840"/>
+      <stop offset="1" stop-color="#351853"/>
     </linearGradient>
-    <linearGradient id="accent" x1="585" y1="68" x2="817" y2="216" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#40F5D2"/>
-      <stop offset=".54" stop-color="#79ACFF"/>
-      <stop offset="1" stop-color="#C997FF"/>
+    <linearGradient id="accent" x1="28" y1="55" x2="879" y2="194" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#49F5C5"/>
+      <stop offset=".46" stop-color="#58CBFF"/>
+      <stop offset=".76" stop-color="#A58BFF"/>
+      <stop offset="1" stop-color="#F46BC2"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="652" y1="70" x2="773" y2="196" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#55FADC"/>
+      <stop offset=".48" stop-color="#82A9FF"/>
+      <stop offset="1" stop-color="#E189FB"/>
     </linearGradient>
     <radialGradient id="halo">
-      <stop stop-color="#604CDB" stop-opacity=".37"/>
-      <stop offset="1" stop-color="#604CDB" stop-opacity="0"/>
+      <stop stop-color="#7348FA" stop-opacity=".58"/>
+      <stop offset="1" stop-color="#7348FA" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ground-light">
+      <stop stop-color="#07C7CF" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#07C7CF" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
-      <path d="M22 0H0V22" fill="none" stroke="#A8BFFF" stroke-opacity=".13"/>
+      <path d="M22 0H0V22" fill="none" stroke="#C6B7FF" stroke-opacity=".15"/>
     </pattern>
-    <clipPath id="card"><rect width="900" height="284" rx="24"/></clipPath>
+    <clipPath id="card"><rect width="900" height="260" rx="24"/></clipPath>
   </defs>
 
   <g clip-path="url(#card)">
-    <path fill="url(#background)" d="M0 0h900v284H0z"/>
-    <ellipse cx="724" cy="138" rx="232" ry="191" fill="url(#halo)"/>
-    <path fill="url(#grid)" d="M548 0h352v284H548z"/>
-    <path d="M0 0h900" stroke="url(#accent)" stroke-width="8"/>
+    <rect width="900" height="260" fill="url(#background)"/>
+    <ellipse cx="731" cy="123" rx="254" ry="198" fill="url(#halo)"/>
+    <ellipse cx="555" cy="278" rx="303" ry="131" fill="url(#ground-light)"/>
+    <path d="M626 0h274v260H532l39-42V60Z" fill="url(#grid)"/>
+    <path d="M0 0h900" stroke="url(#accent)" stroke-width="10"/>
 
-    <g fill="none" stroke="url(#accent)" stroke-width="1.5" opacity=".54">
-      <path d="M558 73h53l31 31h22M573 203h47l37-37h14M754 94h32l36-36h78M761 179h18l38 38h83"/>
-      <circle cx="558" cy="73" r="4" fill="#0E1832"/>
-      <circle cx="573" cy="203" r="4" fill="#0E1832"/>
-      <circle cx="823" cy="58" r="4" fill="#251949"/>
-      <circle cx="817" cy="217" r="4" fill="#251949"/>
+    <g fill="none" stroke="url(#accent)" stroke-width="2" stroke-linejoin="round" opacity=".72">
+      <path d="M570 64h53l26 26h23M566 191h54l35-35h17M759 86h32l37-37h72M764 166h23l39 39h74"/>
+      <circle cx="570" cy="64" r="4" fill="#161840"/>
+      <circle cx="566" cy="191" r="4" fill="#161840"/>
+      <circle cx="828" cy="49" r="4" fill="#301C56"/>
+      <circle cx="826" cy="205" r="4" fill="#301C56"/>
     </g>
-    <circle cx="715" cy="141" r="96" fill="none" stroke="#B1A1FF" stroke-opacity=".34" stroke-dasharray="2 7"/>
-    <circle cx="715" cy="141" r="81" fill="#161E42" fill-opacity=".76" stroke="url(#accent)" stroke-opacity=".45"/>
-    <path d="M715 78c16 12 36 19 54 22v39c0 36-24 56-54 70-30-14-54-34-54-70v-39c18-3 38-10 54-22Z"
-          fill="#132544" stroke="url(#accent)" stroke-width="3.5" stroke-linejoin="round"/>
-    <path d="M715 94c13 8 26 14 39 17v28c0 26-15 43-39 56-24-13-39-30-39-56v-28c13-3 26-9 39-17Z"
-          fill="none" stroke="#A5B9FF" stroke-opacity=".29"/>
-    <g fill="none" stroke="#80FFE5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-      <rect x="698" y="137" width="34" height="28" rx="5"/>
-      <path d="M705 137v-9a10 10 0 0 1 20 0v9m-10 12v5"/>
+    <circle cx="718" cy="129" r="98" fill="none" stroke="#BB9FFF" stroke-opacity=".6" stroke-dasharray="2 8"/>
+    <circle cx="718" cy="129" r="81" fill="#171C43" fill-opacity=".8" stroke="url(#shield)" stroke-opacity=".55"/>
+    <path d="M718 66c16 12 36 19 54 22v39c0 36-24 56-54 70-30-14-54-34-54-70V88c18-3 38-10 54-22Z"
+          fill="#1A2850" stroke="url(#shield)" stroke-width="3.5" stroke-linejoin="round"/>
+    <path d="M718 82c13 8 26 14 39 17v28c0 26-15 43-39 56-24-13-39-30-39-56V99c13-3 26-9 39-17Z"
+          fill="none" stroke="#A5B9FF" stroke-opacity=".36"/>
+    <g fill="none" stroke="#94FFE5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="701" y="125" width="34" height="28" rx="5"/>
+      <path d="M708 125v-9a10 10 0 0 1 20 0v9m-10 12v5"/>
     </g>
 
     <g font-family="Segoe UI, Arial, sans-serif">
-      <text x="54" y="67" fill="#9EFBE8" font-size="16" font-weight="700" letter-spacing="3.2">GABRIEL CUNHA</text>
-      <text x="50" y="131" fill="#F6F8FF" font-size="59" font-weight="700">Cibersegurança</text>
-      <text x="55" y="171" fill="#D5DEF8" font-size="22">Em busca de uma atuação generalista</text>
-
-      <rect x="55" y="207" width="121" height="32" rx="16" fill="#10433F" stroke="#279B89"/>
-      <circle cx="72" cy="223" r="3" fill="#68FBDC"/>
-      <text x="83" y="227" fill="#BAFFEF" font-size="11" font-weight="700" letter-spacing="1.2">EM ESTUDO</text>
-
-      <rect x="188" y="207" width="218" height="32" rx="16" fill="#3B2763" stroke="#9869D8"/>
-      <circle cx="205" cy="223" r="3" fill="#D1A8FF"/>
-      <text x="216" y="227" fill="#F2DFFF" font-size="11" font-weight="700" letter-spacing="1">QUERO TRABALHAR NA ÁREA</text>
+      <text x="54" y="78" fill="#8BF9DF" font-size="22" font-weight="700" letter-spacing="2">ESTUDANTE DE CIBERSEGURANÇA</text>
+      <text x="50" y="153" fill="#F6F8FF" font-size="72" font-weight="700" letter-spacing="-2">Gabriel Cunha</text>
+      <text x="55" y="200" fill="#DCDBFF" font-size="26">Ciência da Computação · UNIFEOB</text>
     </g>
   </g>
-  <rect x=".5" y=".5" width="899" height="283" rx="23.5" fill="none" stroke="#8594F5" stroke-opacity=".32"/>
+  <rect x=".5" y=".5" width="899" height="259" rx="23.5" fill="none" stroke="#9E8BFF" stroke-opacity=".45"/>
 </svg>
